@@ -1,0 +1,19 @@
+{
+  "name": "lunchbox",
+  "version": "1.0.0",
+  "description": "lunchbox",
+  "scripts": {
+    "precommit": "lint-staged --config .lintstagedrc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzoborgfrantz/lunchbox.git"
+  },
+  "keywords": [],
+  "author": "enzo borg frantz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzoborgfrantz/lunchbox/issues"
+  },
+  "homepage": "https://github.com/enzoborgfrantz/lunchbox#readme"
+}
